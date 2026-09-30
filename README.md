@@ -72,11 +72,6 @@ I read this interesting quote the other day:
 * Cheese
 * Tomatoes
 
-#### Ordered list
-1. Cut the cheese
-2. Slice the tomatoes
-3. Rub the tomatoes in flour
-
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
@@ -91,6 +86,12 @@ I read this interesting quote the other day:
  * An opera singer
  * Has white hair
  * Is very famous
+
+
+#### Ordered list
+1. Cut the cheese
+2. Slice the tomatoes
+3. Rub the tomatoes in flour
 
 
  1. Cut the cheese
