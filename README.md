@@ -100,13 +100,13 @@ To doubt they were kneeling then.
 
  
  * Calculus
-  * A professor
-  * Has no hair
-  * Often wears green
+   * A professor
+   * Has no hair
+   * Often wears green
  * Castafiore 
-  * An opera singer
-  * Has white hair
-  * Is very famous   
+   * An opera singer
+   * Has white hair
+   * Is very famous   
 
 
 
