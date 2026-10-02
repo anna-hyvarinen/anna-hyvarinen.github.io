@@ -99,15 +99,16 @@ To doubt they were kneeling then.
 * Dahlia (_Coreopsideae Dahlia_)
 
   
-  
- * Calculus
-     * A professor
-     * Has no hair
-     * Often wears green
- * Castafiore
-     * An opera singer
-     * Has white hair
-     * Is very famous
+ <ul> 
+<li> * Calculus</li>
+    <ul><li> * A professor</li>
+     <li>* Has no hair</li>
+     <li>* Often wears green</li></ul>
+ <li>* Castafiore
+     <li>* An opera singer</li>
+     <li>* Has white hair</li>
+     <li>* Is very famous</li>
+     </ul>
 
 
 
