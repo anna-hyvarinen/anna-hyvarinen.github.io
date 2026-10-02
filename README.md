@@ -91,7 +91,7 @@ To doubt they were kneeling then.
 #### Ordered list
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in flour
+3. Rub the tomatoes in flour   
 
 
 * Azalea (_Ericaceae Rhododendron_)
@@ -112,10 +112,8 @@ To doubt they were kneeling then.
 
 
 1. Cut the cheese
- 
- * Make sure that the cheese is cut into little triangles.
+  * Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes
- 
- * Be careful when holding the knife.
- * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+  * Be careful when holding the knife.
+  * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
