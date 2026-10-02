@@ -96,19 +96,19 @@ To doubt they were kneeling then.
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)
+* Dahlia (_Coreopsideae Dahlia_)  
 
   
  
-<li>  Calculus</li>
-    <ul><li>  A professor</li>
-     <li> Has no hair</li>
-     <li> Often wears green</li></ul>
- <li> Castafiore
-     <ul><li> An opera singer</li>
-     <li> Has white hair</li>
-     <li> Is very famous</li>
-     </ul>
+*Calculus
+ *A professor
+ *Has no hair
+ *Often wears green
+*Castafiore
+ *An opera singer
+ *Has white hair
+ *Is very famous
+
 
 
 
